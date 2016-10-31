@@ -34,3 +34,6 @@ Then use point.xCanvas & point.yCanvas in all of the MouseEvents rather than poi
 
 ## To Run
 - Clone this repository into your SAGE2_Media/apps directory
+- Run SAGE2 as normal
+- Add Qlik app to SAGE2 via App Launcher
+- Choose existing object, visualization, dimension or measure OR create a new chart by selecting your dimension(s), measure(s) and visualization type
