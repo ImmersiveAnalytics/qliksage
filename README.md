@@ -2,7 +2,7 @@
 This SAGE2 app enables Qlik analytics visualizations to be interacted with on large tiled display walls running the SAGE2 middleware.
 
 ## Requirements
-- *Used in conjunction with [SAGE2](https://bitbucket.org/sage2/sage2/overview)*
+- *Used in conjunction with [SAGE2](https://bitbucket.org/sage2/sage2/overview) [v1.5.0](https://bitbucket.org/sage2/sage2/downloads/150318-SAGE2-win.zip)*
 - Currently hardcoded to connect to the public Happiness application on the Qlik pe.qlik.com server
 - The processAndPassEvents function within SAGE2_MouseEventPassing.js requires the following additional code prior to the switch() to fix a problem with interacting with canvas elements
 ```
